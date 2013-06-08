@@ -76,7 +76,7 @@ if ($nn != 'n') {
 		</div>
 		<div class="footer-bar">
 			<?php print newspro_tree_bottom() ?>
-			<span class="copyright"><?php print render($page['footer_message']); ?> | <a href="http://www.themesnap.com">Designed by ThemeSnap.com</a></span>
+			<span class="copyright"><?php print render($page['footer_message']); ?></span>
 		</div>
 	</div>
 <?php //print $closure; ?>
